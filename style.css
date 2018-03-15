@@ -31,6 +31,10 @@ html {
 
 .card article img {
   max-height: 100%;
-  width: 13em;
+  width: 13.5em;
   float: right;
+}
+
+.card article {
+  height: 13.5em;
 }
