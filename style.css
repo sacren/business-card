@@ -14,8 +14,8 @@ html {
   width: 35em;
   height: 22em;
   margin: 5em auto;
-  background-color: red;
-  border: 0.2em solid black;
+  background-color: #006aa7;
+  border: 0.2em solid #ccc;
   border-radius: 1.5em;
 }
 
@@ -37,4 +37,5 @@ html {
 
 .card article {
   height: 13.5em;
+  background-color: #fecc00;
 }
