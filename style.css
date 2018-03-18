@@ -29,12 +29,12 @@ html {
 
 .card article img {
   max-height: 100%;
-  width: 13.5em;
+  width: 14.0em;
   float: right;
 }
 
 .card article {
-  height: 13.5em;
+  height: 14.0em;
   background-color: #fecc00;
 }
 
