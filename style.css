@@ -20,13 +20,13 @@ html {
 }
 
 .card footer {
-  margin-left: 2em;
+  margin-left: 1em;
   color: yellow;
   font-size: 1.3em;
 }
 
 .card header {
-  margin-left: 2em;
+  margin-left: 1em;
   color: white;
 }
 
@@ -42,7 +42,7 @@ html {
 }
 
 .card article p {
-  margin-left: 2em;
+  margin-left: 1em;
   padding-top: 1.8em;
   color: blue;
   font-size: 1.3em;
