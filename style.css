@@ -1,4 +1,4 @@
-/* Stylesheet for Business Card */
+/* General page styles */
 
 body {
   margin: 0;
@@ -10,6 +10,8 @@ html {
   background-color: #ccc;
 }
 
+/* Page section style */
+
 .card {
   width: 35em;
   height: 22em;
@@ -19,26 +21,32 @@ html {
   border-radius: 1.5em;
 }
 
-.card footer {
-  margin-left: 1em;
-  color: yellow;
-  font-size: 1.3em;
-}
+/* Card top style */
 
 .card header {
   margin-left: 1em;
   color: white;
 }
 
-.card article img {
-  max-height: 100%;
-  width: 14.0em;
-  float: right;
+/* Card bottom style */
+
+.card footer {
+  margin-left: 1em;
+  color: yellow;
+  font-size: 1.3em;
 }
+
+/* Card middle section styles */
 
 .card article {
   height: 14.0em;
   background-color: #fecc00;
+}
+
+.card article img {
+  max-height: 100%;
+  width: 14.0em;
+  float: right;
 }
 
 .card article p {
