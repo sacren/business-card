@@ -25,9 +25,7 @@ html {
 
 .card header {
   height: 3em;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-left: 1em;
+  padding: 1em;
   color: white;
 }
 
@@ -35,9 +33,7 @@ html {
 
 .card footer {
   height: 3em;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-left: 1em;
+  padding: 1em;
   color: yellow;
 }
 
