@@ -24,6 +24,9 @@ html {
 /* Card top style */
 
 .card header {
+  height: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   margin-left: 1em;
   color: white;
 }
@@ -31,27 +34,29 @@ html {
 /* Card bottom style */
 
 .card footer {
+  height: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
   margin-left: 1em;
   color: yellow;
-  font-size: 1.3em;
 }
 
 /* Card middle section styles */
 
 .card article {
-  height: 14.0em;
   background-color: #fecc00;
+  height: 12.0em;
 }
 
 .card article img {
   max-height: 100%;
-  width: 14.0em;
+  width: 12.0em;
   float: right;
 }
 
 .card article p {
+  margin-top: 0;
   margin-left: 1em;
-  padding-top: 1.8em;
+  padding-top: 2.0em;
   color: blue;
-  font-size: 1.3em;
 }
