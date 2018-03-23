@@ -10,8 +10,10 @@ html {
   background-color: #ccc;
 }
 
-/* Page section style */
-
+/* Card container style
+ *
+ * Specs provided by the project.
+ */
 .card {
   width: 35em;
   height: 22em;
@@ -21,24 +23,30 @@ html {
   border-radius: 1.5em;
 }
 
-/* Card top style */
-
+/* Card top style
+ *
+ * 50px for height and use em unit.
+ */
 .card header {
   height: 3em;
   padding: 1em;
   color: white;
 }
 
-/* Card bottom style */
-
+/* Card bottom style
+ *
+ * 50px for height and use em unit.
+ */
 .card footer {
   height: 3em;
   padding: 1em;
   color: yellow;
 }
 
-/* Card middle section styles */
-
+/* Card middle section styles
+ *
+ * 12em for height specified by the project.
+ */
 .card article {
   background-color: #fecc00;
   height: 12.0em;
