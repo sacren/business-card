@@ -33,6 +33,12 @@ html {
   color: white;
 }
 
+.card header h2 {
+  margin: 0;
+  font-size: 2.0em;
+  line-height: 1.5;
+}
+
 /* Card bottom style
  *
  * 50px for height and use em unit.
@@ -41,6 +47,12 @@ html {
   height: 3em;
   padding: 1em;
   color: yellow;
+}
+
+.card footer p {
+  margin: 0;
+  font-size: 1.5em;
+  line-height: 2.0;
 }
 
 /* Card middle section styles
